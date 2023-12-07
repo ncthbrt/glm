@@ -37,7 +37,7 @@ let package = Package(
                       "doc",
                       ".github"],
             sources: [],
-            publicHeadersPath: "."),
+            publicHeadersPath: "./glm"),
     ],
     cxxLanguageStandard: .cxx14
 )
